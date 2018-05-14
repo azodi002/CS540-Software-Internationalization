@@ -1,0 +1,12 @@
+C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\obj\Debug\number formatting example.exe
+C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\obj\Debug\number formatting example.pdb
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\obj\Debug\number formatting example.exe
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\obj\Debug\number formatting example.pdb
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\bin\number formatting example.exe
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\bin\number formatting example.pdb
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\bin\number formatting example.xml
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\obj\Debug\number formatting example.vbprojResolveAssemblyReference.cache
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\obj\Debug\number_formatting_example.Form1.resources
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\obj\Debug\number_formatting_example.Resources.resources
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\obj\Debug\number formatting example.vbproj.GenerateResource.Cache
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_6\EXAMPLE CODE FOR CS540 PROG ASSGN 6\obj\Debug\number formatting example.xml

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="number formatting example">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\number formatting example.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\number formatting example.suo">
+</Property><Property Name="Date" Value="Friday, 23 October 2009">
+</Property><Property Name="Time" Value="19:16 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="number formatting example.sln" Description="File successfully backed up as C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\Backup\number formatting example.sln">
+</Event><Event ErrorLevel="0" Project="" Source="number formatting example.suo" Description="File successfully backed up as C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\Backup\number formatting example.suo">
+</Event><Event ErrorLevel="0" Project="number formatting example" Source="number formatting example.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\Backup\number formatting example.vbproj">
+</Event><Event ErrorLevel="0" Project="number formatting example" Source="number formatting example.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\Backup\number formatting example.vbproj.user">
+</Event><Event ErrorLevel="0" Project="number formatting example" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="number formatting example" Source="Form1.vb" Description="File successfully backed up as C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="number formatting example" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\TSInstructor\Desktop\CS 540 HINTS number formt\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="number formatting example" Source="number formatting example.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="number formatting example" Source="number formatting example.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="number formatting example.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="number formatting example.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="number formatting example" Source="number formatting example.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
