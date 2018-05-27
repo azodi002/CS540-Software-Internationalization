@@ -1,0 +1,14 @@
+K:\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.exe
+K:\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.pdb
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.exe
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.pdb
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\bin\Assignment4.exe
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\bin\Assignment4.pdb
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\bin\Assignment4.xml
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.vbprojResolveAssemblyReference.cache
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.arabic resources.resources
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.english resources.resources
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.Form1.resources
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.spanish resources.resources
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.vbproj.GenerateResource.Cache
+C:\Users\Omid\Desktop\CS-540 (Software I18N)\Programming Assignments\Proj_5\SDSU CS 540 FA07 HW 5_4\obj\Debug\Assignment4.xml
